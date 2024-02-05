@@ -1,0 +1,31 @@
+nome: "Diego"
+idade: 29
+sexo: "Masculino"
+
+carro:
+  versao: 1.8
+  modelo: "Fiat Argo"
+
+nullo: null
+nullinho: ~
+
+verdairo: True
+outro_verdadeiro: On
+
+falso: False 
+falsinho: Off
+
+# ARRAYS, LISTAS : 
+lista: [1,2,3,4,5]
+lista_dois: 
+  - "Nome"
+  - "Idade"
+  - 10 
+  - True
+
+# OBJETOS
+objeto_first: 
+  a: 1
+  b: 2 
+
+objeto_second: {a: 1, b: 2, c: 3}
